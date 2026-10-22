@@ -1,12 +1,6 @@
 # 2BFITT
 MEDT 2BFITT Test Project
 
-Loki ist drinnen
-Alen ist drinnen
-Jonas ist drinnen
-Siam ist drinnen
-
-
 t30061 Loki 
 t50070 Björn
 T40070 Dominik
@@ -20,5 +14,4 @@ t50048 Ercan
 t50079 Ahmad Meister
 t50045 Amir
 t50060 Muhammet König
-
 t50066 edi
